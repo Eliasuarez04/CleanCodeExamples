@@ -1,0 +1,14 @@
+C:\Users\Elias\CleanCodeExamples\bin\Debug\net9.0\CleanCodeExamples.exe
+C:\Users\Elias\CleanCodeExamples\bin\Debug\net9.0\CleanCodeExamples.deps.json
+C:\Users\Elias\CleanCodeExamples\bin\Debug\net9.0\CleanCodeExamples.runtimeconfig.json
+C:\Users\Elias\CleanCodeExamples\bin\Debug\net9.0\CleanCodeExamples.dll
+C:\Users\Elias\CleanCodeExamples\bin\Debug\net9.0\CleanCodeExamples.pdb
+C:\Users\Elias\CleanCodeExamples\obj\Debug\net9.0\CleanCodeExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elias\CleanCodeExamples\obj\Debug\net9.0\CleanCodeExamples.AssemblyInfoInputs.cache
+C:\Users\Elias\CleanCodeExamples\obj\Debug\net9.0\CleanCodeExamples.AssemblyInfo.cs
+C:\Users\Elias\CleanCodeExamples\obj\Debug\net9.0\CleanCodeExamples.csproj.CoreCompileInputs.cache
+C:\Users\Elias\CleanCodeExamples\obj\Debug\net9.0\CleanCodeExamples.dll
+C:\Users\Elias\CleanCodeExamples\obj\Debug\net9.0\refint\CleanCodeExamples.dll
+C:\Users\Elias\CleanCodeExamples\obj\Debug\net9.0\CleanCodeExamples.pdb
+C:\Users\Elias\CleanCodeExamples\obj\Debug\net9.0\CleanCodeExamples.genruntimeconfig.cache
+C:\Users\Elias\CleanCodeExamples\obj\Debug\net9.0\ref\CleanCodeExamples.dll
